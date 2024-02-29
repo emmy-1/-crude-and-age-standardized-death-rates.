@@ -26,3 +26,7 @@ Age-standardized death rate remained higher in Uganda except for 50-59 and 85+ a
 ### Assumptions:
 Reliable and consistent death reporting and population estimates.
 Accurate cause of death identification in both countries.
+
+
+## TABLEAU DASHBOARD
+https://public.tableau.com/app/profile/emmanuel.adegboyega.obayomi/viz/COPD_17090783281980/Dashboard
